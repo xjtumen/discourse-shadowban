@@ -1,8 +1,8 @@
-# name: shadowban
+# name: discourse-shadowban
 # about: Hide a user's posts from everybody else
 # version: 0.0.1
-# authors: Michael Howell (notriddle)
-# url: https://github.com/notriddle/discourse-shadowban
+# authors: Michael Howell (notriddle), xjtumen
+# url: https://github.com/xjtumen/discourse-shadowban
 enabled_site_setting :shadowban_enabled
 
 
